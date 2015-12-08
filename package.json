@@ -1,0 +1,17 @@
+{
+  "name": "Bank.js",
+  "version": "0.0.0",
+  "description": "Connect to bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "start": "node test/index.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "banking": "~0.3.3",
+    "html-entities": "^1.2.0",
+    "moment": "^2.10.6"
+  }
+}
