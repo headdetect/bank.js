@@ -12,6 +12,7 @@
   "dependencies": {
     "banking": "~0.3.3",
     "html-entities": "^1.2.0",
-    "moment": "^2.10.6"
+    "moment": "^2.10.6",
+    "promise": "^7.0.4"
   }
 }
